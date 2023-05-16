@@ -24,9 +24,10 @@ https://api.openai.com/v1/completions
 
 ## Screenshots
 
-
-![polotno (3)](https://github.com/pkini2002/Social-media-web-app/assets/84091455/e53c7c4f-4b1b-4164-9917-a6096e72843a)
-![polotno (2)](https://github.com/pkini2002/Social-media-web-app/assets/84091455/4cbf80eb-f346-409e-81fc-46d6bf23a022)
+<div style="display:flex">
+<img src="https://github.com/pkini2002/Social-media-web-app/assets/84091455/e53c7c4f-4b1b-4164-9917-a6096e72843a" width="500" height="500">
+<img src="https://github.com/pkini2002/Social-media-web-app/assets/84091455/4cbf80eb-f346-409e-81fc-46d6bf23a022" width="500" height="500">
+</div>
 
 
 ## References
